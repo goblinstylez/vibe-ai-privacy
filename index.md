@@ -45,5 +45,4 @@ VIBE AI (“we”, “us”, or “our”) is committed to protecting your priva
 
 ## 7. Contact Us  
 If you have any questions or concerns about this policy, please reach out:  
-- Email: support@vibe-ai.com  
 - GitHub Issues: [github.com/your-username/vibe-ai-privacy](https://github.com/your-username/vibe-ai-privacy)
